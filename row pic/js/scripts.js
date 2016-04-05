@@ -43,3 +43,8 @@ $('.animatE-on-mouseenter').on('mouseenter', function() {
 $('.animate-On-mouseenter').on('mouseenter', function() {
 	$(this).toggleClass("animated bounceInRight");
 });
+
+
+$('.animate-oN-mouseenter').on('mouseenter', function() {
+	$(this).toggleClass("animated hinge");
+});
